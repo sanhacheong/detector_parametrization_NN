@@ -1,3 +1,12 @@
+# Any "data" types (which tend to be large)
+*.npy
+*.hdf5
+
+# Any data exception must be specified here:
+# BEGIN of data exceptions (i.e. to be included)
+
+# END of data exceptions
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
